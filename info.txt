@@ -1,1 +1,3 @@
 pirmā rindiņa, kaut kas
+
+Commit #2 during squash activity
